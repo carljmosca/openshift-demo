@@ -6,7 +6,6 @@ target/
 *.tar
 *.gz
 *.txt
-*.xml
 *cache.js
 *.manifest
 /.project
