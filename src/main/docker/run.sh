@@ -1,0 +1,1 @@
+docker run -p 18080:8080 -e OPENSHIFT_DEMO=myDemoValue --name openshift-demo demo/openshift-demo

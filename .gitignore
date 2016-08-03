@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+*.json
+*.zip
+*.tar
+*.gz
+*.txt
+*.xml
+*cache.js
+*.manifest
+/.project
+/.settings/
+/nbproject/
