@@ -22,7 +22,7 @@ Then visit [http://localhost:18080](http://localhost:18080) to see the applicati
 To deploy the image to the Docker repository, you will need to modify the src/main/docker/push.sh script to 
 use your own account name (i.e. change the two instances of "carljmosca" to your own name).
 
-To run the application on OpenShift, the src//main/openshift/create.sh script can be used.  Once you have created
+To run the application on OpenShift, the src/main/openshift/create.sh script can be used.  Once you have created
 an OpenShift account and logged in, this script can be used to create project and template.  
 NOTE: The src/main/openshift/openshift-demo-template.json includes a reference to the Docker hosted image
 and the repository should be changed from "carljmosca" to your own.
